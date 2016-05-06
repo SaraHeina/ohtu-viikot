@@ -1,3 +1,3 @@
 ## Lauri Suomalainen: Ohjelmistotuotantomenetelmien kehittyminen 1950-luvulta nykypäivään
-Kandidaatintyössään Suomalainen käsittelee ohjelmistotuotannonmenetelmiä 1950-luvultä lähtien. Alkuaikoina tietokoneet olivat isoja, hitaita ja muistikapasiteetiltaan mitättömiä
+Kandidaatintyössään Suomalainen käsittelee ohjelmistotuotannonmenetelmiä 1950-luvultä lähtien. Alkuaikoina tietokoneet olivat isoja, hitaita ja muistikapasiteetiltaan pieniä, näiden rajoitteiden takia ohjelmointi pidettiin toissijaisena ja yksinkertaisena verrattuna itse tietokoneen suunnitteluun ja rakentamiseen. Muutos tähän tuli vasta 60-luvulla laitteistojen monimutkaituessa. Vuonna 1968 tapahtuikin ohjelmoistokriisi, kun huomattiin että koulutetuista tietotekniikka-alan työntekijöistä alkoi olla pulaa ja ohjelmistoprojectit alkoivat kallistua.
 
