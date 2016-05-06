@@ -6,3 +6,7 @@ Perinteisillä ohjelmistotuotantomenetelmillä tarkoitetaan suunnitelmavetoisia 
 Vesiputousmallin ongelmiin pyrittiin ratkaisemaan inkrementaalisilla ja iteratiivisilla ohjelmistotuotantomenetelmillä. Menetelmille on ominaista dokumenttijohtoisen lineaarisesti etenevän tuotantoprosessin välttäminen, sen sijaan menetelmät perustuvatkin ohjelmiston vaiheittaiseen kehittämiseen, jossa kaikki kehitysvaiheet arvioidaan ja niiden pohjalta tehdään paranneltu versio, kunnes haluttu järjestelmä on valmis. Näistä menetelmistä Suomalainen esittelee spiraalimallin ja RUP-mallin.
 
 Lopuksi Suomalainan kertoo 2000-luvun keskeisimmästä trendistä ohjelmistotuotannossa ketteristä ohjelmistotuotantomenetelmistä, joka syntyi reaktiona perinteisten menetelmien vaatimus- ja suunnitelmapainotteisuudelle. Ketterissä menetelmissä pääpaino on ohjelmoijien keskeisessä ja asiakkaiden kanssa tapahtuvassa kanssakäymisessä, sekä muutoksiin vastaamisessa suunnitelmassa pitäytymisen sijaan.
+
+
+
+## Lauri Suomalainen: Ohjelmistotuotantomenetelmien kehittyminen 1950-luvulta nykypäivään
